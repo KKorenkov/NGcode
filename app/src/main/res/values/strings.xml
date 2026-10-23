@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoxPhone</string>
+    <string name="hint_user">user@app.account.voximplant.com</string>
+    <string name="hint_password">Пароль</string>
+    <string name="label_node">Нода аккаунта (см. панель Voximplant)</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="hint_number">Номер, например 79001234567</string>
+    <string name="call">Позвонить</string>
+    <string name="answer">Ответить</string>
+    <string name="hint_dtmf">Тоновый набор</string>
+    <string name="send">Отправить</string>
+</resources>
